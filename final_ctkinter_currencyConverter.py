@@ -227,10 +227,11 @@ def main():
         ctk.CTkButton(chart_win, text="Show Chart", command=do_chart, font=("Helvetica", 16), fg_color="#4B0082", hover_color="#6A0DAD").pack(pady=10)
         ctk.CTkButton(chart_win, text="Close", command=chart_win.destroy, font=("Helvetica", 16), fg_color="#FF4500", hover_color="#FF6347").pack(pady=10)
     
-    chart_btn = ctk.CTkButton(app, text="7-day currency comparison chart", font=("Helvetica", 18), fg_color="#4B0082", hover_color="#6A0DAD", command=seven_day_chart)
+    chart_btn = ctk.CTkButton(app, text="7-day Currency Comparison", font=("Helvetica", 18), fg_color="#4B0082", hover_color="#6A0DAD", command=seven_day_chart)
     chart_btn.pack(pady = 15)
 
     app.mainloop()
 
 if __name__ == '__main__':
+
     main()
