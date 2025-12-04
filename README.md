@@ -118,7 +118,7 @@ Users can:
 ![Comparison Chart](images/comparisonchart.png)
 
 ### **Supported Currencies (Chart)**  
-![Supported Currencies Chart](images/supportedcurrency_conversionchart.png)
+![Supported Currencies Chart](images/supportedcurrency_comparisonchart.png)
 
 ---
 
