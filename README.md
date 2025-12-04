@@ -106,19 +106,19 @@ Users can:
 *(Add images/screenshots as needed in your GitHub repo)*
 
 ### **Main Window**  
-![Main Window](images/main_window.png)
+![Main Window](images/mainwindow.png)
 
 ### **Currency Conversion Result**  
-![Currency Conversion](images/conversion.png)
+![Currency Conversion](images/currencyconversion.png)
 
 ### **Supported Currencies (Conversion)**  
-![Supported Currencies Conversion](images/currencies_conversion.png)
+![Supported Currencies Conversion](images/supportedcurrenciesforconversion.png)
 
 ### **7-Day Comparison Chart**  
-![Comparison Chart](images/comparison_chart.png)
+![Comparison Chart](images/comparisonchart.png)
 
 ### **Supported Currencies (Chart)**  
-![Supported Currencies Chart](images/currencies_chart.png)
+![Supported Currencies Chart](images/supportedcurrency_conversionchart.png)
 
 ---
 
