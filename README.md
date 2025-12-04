@@ -122,17 +122,3 @@ Users can:
 
 ---
 
-## 🧩 Project Purpose
-This mini-project demonstrates:
-- GUI development using CustomTkinter  
-- API consumption  
-- Data visualization with Matplotlib  
-- Practical modular programming in Python  
-
----
-
-## 📄 License
-This project is for educational purposes.
-
----
-
