@@ -196,7 +196,7 @@ def main():
                 popup.lift()
 
                 popup.title("Error")
-                popup.geometry("250x100")
+                popup.geometry("300x150")
 
                 popup_label = ctk.CTkLabel(popup, text="Please enter a valid Currency Code", font=("Helvetica", 14), text_color="#FF4500")
                 popup_label.pack(pady=20)
@@ -235,3 +235,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
