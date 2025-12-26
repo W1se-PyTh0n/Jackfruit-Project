@@ -1,4 +1,4 @@
-# 🥭 Jackfruit Problem – Currency Converter (Python)
+# Jackfruit Problem – Currency Converter (Python)
 
 A mini-project that provides an easy-to-use currency converter with a 7-day historical comparison chart using multiple Forex APIs.
 
