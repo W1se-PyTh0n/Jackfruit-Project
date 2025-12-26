@@ -102,8 +102,7 @@ Users can:
 
 ---
 
-## 🖼️ Sample Outputs  
-*(Add images/screenshots as needed in your GitHub repo)*
+## 🖼️ Sample Outputs
 
 ### **Main Window**  
 ![Main Window](images/mainwindow.png)
