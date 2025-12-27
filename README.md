@@ -13,8 +13,6 @@ A mini-project that provides an easy-to-use currency converter with a 7-day hist
 | Aashmeen Kaur | PES1UG25CS010 | C1 |
 | Abhiram Vinayak Shanbhag | PES1UG25EC012 | C1 |
 
-🔗 **GitHub Repository:**  
-https://github.com/W1se-PyTh0n/Jackfruit-Project
 
 ---
 
